@@ -25,5 +25,5 @@ This document provides an overview of Microsoft Power BI, including its core fea
 
 ### Reference
 
-**Udemy Course:** Microsoft Power BI Desktop for Business Intelligence  
+**Udemy Course:** Microsoft Power BI Desktop for Business Intelligence
 **Instructors:** Chris \& Aaron from Maven Analytics
