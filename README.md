@@ -23,6 +23,14 @@ This document provides an overview of Microsoft Power BI, including its core fea
 
 ---
 
+### Connecting and Shaping Data
+
+This document demonstrates how to connect to various data sources and shape data using the Power Query Editor. The work in this `.pbix` file covers essential data preparation concepts, including Power BI’s front-end vs back-end structure, data connector types, and storage and connection modes. It also includes practical exercises on importing data from databases, Excel, and the web.
+
+The transformations explored include table cleanup operations, text and numeric tools, date and time processing, change type with locale, calendar tables, index and conditional columns, grouping and aggregating, pivoting and unpivoting, and merging and appending queries. The file also applies Power Query’s QA and profiling tools, as well as parameter and data source settings. All steps were performed as part of learning how to build reliable and refreshable data pipelines in Power BI.
+
+---
+
 ### Reference
 
 **Udemy Course:** Microsoft Power BI Desktop for Business Intelligence
