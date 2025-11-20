@@ -19,7 +19,7 @@ This repository includes:
 
 ### Introduction to Power BI
 
-This document provides an overview of Microsoft Power BI, including its core features, installation steps, recommended settings, and the end-to-end workflow used in the course. It explains why Power BI is widely used, how it compares to Excel, and introduces the Power Query Editor, Data View, Model View, and Report View. The file also includes helpful resource links and setup instructions for beginning the Power BI learning project.
+This PDF document provides an overview of Microsoft Power BI, including its core features, installation steps, recommended settings, and the end-to-end workflow used in the course. It explains why Power BI is widely used, how it compares to Excel, and introduces the Power Query Editor, Data View, Model View, and Report View. The file also includes helpful resource links and setup instructions for beginning the Power BI learning project.
 
 ---
 
