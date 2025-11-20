@@ -31,6 +31,14 @@ The transformations explored include table cleanup operations, text and numeric 
 
 ---
 
+### Creating a Data Model
+
+This document introduces the fundamentals of data modeling in Power BI. The `.pbix` file covers dimensional modeling concepts, including database normalization, fact and dimension tables, and the use of primary and foreign keys. It also demonstrates how to create, edit, and manage table relationships, including relationship cardinality, active and inactive relationships, and the differences between using relationships and merged tables.
+
+Key modeling techniques include working with star and snowflake schemas, connecting multiple fact tables, and understanding filter context, filter flow, and bi-directional filters. Additional steps include organizing model layouts, setting data formats and categories, creating hierarchies, and hiding fields from the report view to maintain a clean and effective data model.
+
+---
+
 ### Reference
 
 **Udemy Course:** Microsoft Power BI Desktop for Business Intelligence
