@@ -39,6 +39,15 @@ Key modeling techniques include working with star and snowflake schemas, connect
 
 ---
 
+### Calculated Fields with DAX
+
+This document introduces core concepts in Data Analysis Expressions (DAX) for building calculated fields in Power BI. The `.pbix` file covers the differences between DAX and the M language, creating calculated columns and measures, and understanding implicit vs explicit measures and quick measures.
+
+Key topics include DAX syntax and operators, filter context, and essential function groups such as counting, logical and conditional functions, SWITCH, text, date and time, RELATED, CALCULATE, ALL, FILTER, and iterator functions. The file also explores time intelligence calculations and demonstrates how these functions support flexible and dynamic analysis within a data model.
+
+---
+
+
 ### Reference
 
 **Udemy Course:** Microsoft Power BI Desktop for Business Intelligence
