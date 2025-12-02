@@ -47,6 +47,13 @@ Key topics include DAX syntax and operators, filter context, and essential funct
 
 ---
 
+### Visualizing Data with Reports
+
+This document focuses on building interactive and well-designed Power BI reports. The `.pbix` file covers core visualization techniques, including dashboard design, adding and organizing report pages and objects, and working with cards, multi-row cards, line charts, bar charts, donut charts, KPI visuals, tables, and matrices. It also includes filtering options such as slicers, Top N filters, drill up/down, drillthrough, and map visuals.
+
+Additional topics include bookmarks, custom navigation buttons, slicer panels, range and field parameters, custom visuals, and managing or viewing roles. The file concludes with steps for publishing reports to the Power BI Service.
+
+---
 
 ### Reference
 
