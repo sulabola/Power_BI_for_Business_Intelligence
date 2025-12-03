@@ -61,6 +61,12 @@ This document explores Power BI’s AI-driven visual tools. The `.pbix` file cov
 
 ---
 
+### Power BI Optimization Tools
+
+This section introduces techniques for improving report performance and efficiency in Power BI. It covers the optimization ribbon, pausing visuals, optimization presets, applying all slicers, using the performance analyzer, and working with external tools to streamline development and troubleshooting.
+
+---
+
 ### Reference
 
 **Udemy Course:** Microsoft Power BI Desktop for Business Intelligence
