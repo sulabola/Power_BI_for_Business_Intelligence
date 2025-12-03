@@ -55,6 +55,12 @@ Additional topics include bookmarks, custom navigation buttons, slicer panels, r
 
 ---
 
+### Artificial Intelligence (AI)
+
+This document explores Power BI’s AI-driven visual tools. The `.pbix` file covers anomaly detection, smart narratives for automated insights, Q&A visuals for natural language queries, decomposition trees for root-cause exploration, and key influencers for identifying factors that impact business outcomes.
+
+---
+
 ### Reference
 
 **Udemy Course:** Microsoft Power BI Desktop for Business Intelligence
