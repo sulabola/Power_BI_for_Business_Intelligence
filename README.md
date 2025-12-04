@@ -67,6 +67,13 @@ This section introduces techniques for improving report performance and efficien
 
 ---
 
+### New Power BI Features and Updates
+
+This section showcases several of the latest features introduced in Power BI. The .pbix files (New Power BI Features and Updates 1 \& New Power BI Features and Updates 2) demonstrate calculation groups, the new card visual, the DAX Query View, button slicers, list slicers, and visual calculations. They also explore INFO.VIEW functions and AI documentation using TMDL, highlighting how recent updates enhance modeling efficiency, interactivity, and overall report development.
+
+---
+
+
 ### Reference
 
 **Udemy Course:** Microsoft Power BI Desktop for Business Intelligence
